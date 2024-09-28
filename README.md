@@ -357,7 +357,7 @@ After deducting the royalty amount, the remaining balance is transferred to the 
 If the inscription is sold for **100 DOGE**, and the royalty is **5%**:
 
 - **5 DOGE** is automatically sent to the royalty recipient.
-- **95 DOGE** is transferred to the new owner of the inscription.
+- **95 DOGE** is transferred to the owner or seller of the inscription.
 
 3. **Handling of Flat Amounts vs Percentages**
 Flat Amount: If the royalty is specified as a flat amount (e.g., `5 DOGE`), the script always transfers exactly that amount to the royalty recipient during every future transaction. For example, regardless of the transaction amount, `5 DOGE` will always be sent to the royalty recipient.
@@ -412,7 +412,7 @@ To enforce the royalties whenever the inscription is transferred, you need to us
 
 `100`:
 
-- This is the total transfer amount in DOGE. In this case, 100 DOGE is being transferred along with the inscription.
+- This is the total transfer amount in DOGE. In this case, 100 DOGE is being transferred along with the inscription.(For Marketplaces)
 
 - If there are royalties tied to the inscription, a portion of this 100 DOGE will be sent to the royalty recipient, and the rest will go to the seller or in case of transfer, the address that tranfers the inscription.
 
@@ -430,7 +430,7 @@ This will:
 
 - Calculate and send the royalty to the recipient
 
-- Transfer the remaining amount to the new ownerto the seller (or the address making the transfer).
+- Transfer the remaining amount to the owner/seller (or the address transferring out inscription).
 
 ## Viewing
 
