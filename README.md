@@ -13,6 +13,11 @@ A minter and protocol for inscriptions on Dogecoin, now updated with added suppo
 Use this wallet for inscribing only! Always inscribe from this wallet to a different address, e.g., one you created with Ordinals Wallet. This wallet is not meant for storing funds or inscriptions.
 
 ## Prerequisites
+### Launch your own RPC
+
+In order to inscribe, you will need to have access to a Dogecoin RPC. For example: [https://getblock.io/](https://getblock.io/) provides a service to get access to an RPC.
+You will need that for the configuration.
+
 
 1. Install `Node.js` from [Node.js Download](https://nodejs.org/en/download)
 2. Install Dogecoin Core version v1.14.6
@@ -32,8 +37,17 @@ server=1
 ## Setup
 ### Install Doginals
 
-1. Download the repo by clicking `<>code` in the uper right of the GitHub and clicking Download ZIP
-Extract the root folder to your rooot dir.
+1. **git clone and install**
+
+Install by git clone (requires git and node on your computer)
+
+#### git clone
+
+```
+git clone https://github.com/GreatApe42069/royalties-doginals.git
+ ```
+or Download the repo by clicking `<>code` in the uper right of the GitHub and clicking Download ZIP, and
+Extract the zip folder to your root dir.
 
 ### Install Dependencies
 
@@ -42,6 +56,7 @@ Extract the root folder to your rooot dir.
 ```
 cd <path to your dogeinals folder>
 npm install
+npm audit fix
 ``` 
 
 ***After all dependencies are solved, you can configure the environment:***
