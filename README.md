@@ -538,6 +538,8 @@ You can donate to Apezord here:
 
 **"Đogecoin_address": "DNmrp12LfsVwy2Q2B5bvpQ1HU7zCAczYob"**
 
+![image](https://github.com/user-attachments/assets/92ad2d4c-b3b1-4464-b9c0-708038634770)
+
 
 ## License
 
