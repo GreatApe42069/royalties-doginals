@@ -528,11 +528,15 @@ If You would like to support with Donations, Send all Dogecoin to the following 
 
 You can donate to GreatApe here:
 
-"handle": ***"Great Ape"*** "at": ***"@Greatape42069E"*** **"Đogecoin_address": "D9pqzxiiUke5eodEzMmxZAxpFcbvwuM4Hg"**
+"handle": ***"GreatApe"*** "at": [***"@Greatape42069E"***](https://x.com/Greatape42069E)
+
+ **"Đogecoin_address": "D9pqzxiiUke5eodEzMmxZAxpFcbvwuM4Hg"**
 
 You can donate to Apezord here:
 
-"handle": ***"Apezord"*** "at": ***"@apezord"*** **"Đogecoin_address": "DNmrp12LfsVwy2Q2B5bvpQ1HU7zCAczYob"**
+"handle": ***"Apezord"*** "at": [***"@apezord"***](https://x.com/apezord)
+
+**"Đogecoin_address": "DNmrp12LfsVwy2Q2B5bvpQ1HU7zCAczYob"**
 
 
 ## License
