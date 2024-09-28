@@ -2,7 +2,7 @@
 
 ℹ️ This is a fork/based on [apezord/ord-dogecoin](https://github.com/apezord/ord-dogecoin)
 
-# ‼️ DISCLAIMER: THIS CODE MAY STILL HAVE BUGS️, STILL IN DEVELOPEMENT AND TESTING STAGES
+# ‼️ DISCLAIMER: THIS CODE MAY STILL HAVE BUGS️, STILL IN DEVELOPMENT AND TESTING STAGES
 
 
 ## Overview
