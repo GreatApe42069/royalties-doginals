@@ -2,7 +2,9 @@
 
 ℹ️ This is a fork/based on [apezord/ord-dogecoin](https://github.com/apezord/ord-dogecoin)
 
-# ‼️ DISCLAIMER: THIS CODE MAY STILL HAVE BUGS️, STILL IN DEVELOPMENT AND TESTING STAGES
+## Doginals Optimization & Improvement Proposal to Update Doginals.js for Royalties, Enforcement of Royalties, and possibly Collection Metadata
+
+# ‼️ DISCLAIMER: THIS CODE IS A PROPOSAL AND MAY STILL HAVE BUGS️, STILL IN DEVELOPMENT AND TESTING STAGES....
 
 
 ## Overview
